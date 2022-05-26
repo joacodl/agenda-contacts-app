@@ -1,0 +1,13 @@
+.search_contact {
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.search_contact input {
+    display: block;
+    width: 100%;
+    /* padding: auto 0; */
+    /* margin: auto; */
+}
