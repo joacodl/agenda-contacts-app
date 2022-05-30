@@ -8,34 +8,6 @@
     width: 100%;
 }
 
-/* .contact_img_preview {
-    width: 100%;
-    margin: 0.5em auto;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
-
-.contact_img_preview div {
-    width: 33%;
-    height: 20vh;
-    overflow: hidden;
-    border-radius: 5px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.contact_img_preview div img {
-    width: 100%;
-    border-radius: 5px;
-}
-
-.add_contact form div:last-of-type input {
-    display: block;
-    margin: 0.5em auto;
-} */
-
 @media (min-width: 768px) {
 
     .add_contact form {
@@ -49,12 +21,6 @@
     .add_contact form div {
         min-width: 45%;
     }
-
-    /* .contact_img_preview div {
-        min-height: 30vh;
-        min-width: 20% !important;
-        width: 30%;
-    } */
     
 }
 
